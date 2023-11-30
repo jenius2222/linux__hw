@@ -1,0 +1,40 @@
+   0 mkdir -p /root/home/animals/dog
+   1 mkdir -p /root/home/animals/cats
+   2 mkdir -p /root/home/animals/fish
+   3 touch /root/home/animals/dog/pluto
+   4 touch /root/home/animals/cats/garfield
+   5 touch /root/home/animals/fish/nemo
+   6 tree
+   7 mkdir -p /root/home/planets
+   8 mkdir -p /root/home/opt
+   9 mkdir -p /root/home/tmp
+  10 touch /root/home/opt/Mercury.txt
+  11 touch /root/home/opt/Versus.txt
+  12 touch /root/home/opt/Mars.txt
+  13 touch /root/home/opt/Jupiter.txt
+  14 tree
+  15 mv /root/home/opt/Mercury.txt /root/home/planets
+  16 mv /root/home/opt/Jupiter.txt /root/home/planets
+  17 mv /root/home/opt/Mars.txt /root/home/planets
+  18 mv /root/home/opt/Versus.txt /root/home/planets
+  19 tree
+  20 touch /root/home/tmp/adam.txt
+  21 mkdir -p /root/home/humans
+  22 cp /root/home/opt/adam.txt /root/home/humans
+  23 tree
+  24 cp /root/home/tmp/adam.txt /root/home/humans
+  25 tree
+  26 touch /root/home/tmp/evA
+  27 tree
+  28 touch /root/home/tmp/evA.txt
+  29 tree
+  30 mv /root/home/tmp/evA.txt /root/home/opt/eve
+  31 tree
+  32 mv /root/home/tmp/evA.txt /root/home/opt/eve.txt
+  33 tree
+  34 mv /root/home/opt/eve /root/home/humans
+  35 tree
+  36 ls -l
+  37 ls -la
+  38 history
+  39 history > history_09_homework.txt
