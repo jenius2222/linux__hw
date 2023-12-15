@@ -1,0 +1,76 @@
+   0 nano sleeper.sh
+   1 chmod u+x sleeper.sh
+   2 ls -l
+   3 ls -p
+   4  ./sleeper.sh
+   5 nano sleeper.sh
+   6  ./sleeper.sh
+   7 env
+   8 cat /proc/cpuinfo
+   9 cat /proc/cpuinfo >> sleeper.sh
+  10 nano sleeper.sh
+  11 cat /etc/os-release
+  12 nano sleeper.sh
+  13 cat /etc/os-release
+  14 cat /etc/os-release >> sleeper.sh
+  15 nano sleeper.sh
+  16 cat /etc/os-release > sleeper.sh
+  17 nano sleeper.sh
+  18 chmod u+x sleeper.sh
+  19 sleeper.sh
+  20 nano sleeper.sh
+  21  ls -l
+  22 nano sleeper.sh
+  23 ls -l
+  24 nano sleeper.sh
+  25 nano sleeper1.sh
+  26 ls -l
+  27 nano sleeper1.sh
+  28 ls -l
+  29 chmod u+x sleeper1.sh
+  30  ./sleeper1.sh
+  31 ls -l
+  32 nano sleeper1.sh
+  33 ls -l
+  34 nano sleeper1.sh
+  35 y
+  36 ls -l
+  37  ./sleeper.sh
+  38 sleeper.sh
+  39 history > history10.txt
+
+
+Или
+
+        echo $run
+  GNU nano 4.9.3                      sleeper.sh                                
+#!/bin/bash
+ 
+date + "%T"
+ 
+        for run in {1..10}
+        do
+        echo $run
+        sleep 2
+  GNU nano 4.9.3                      sleeper.sh                                
+#!/bin/bash
+  GNU nano 4.9.3                      sleeper.sh                                
+  GNU nano 4.9.3                      sleeper.sh                                
+#Alpine Linux
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
